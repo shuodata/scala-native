@@ -1,0 +1,9 @@
+scalalib/src/
+target/
+_build/
+*.dot
+*.ppm
+.idea
+_build/
+bin/.coursier
+bin/.scalafmt*
